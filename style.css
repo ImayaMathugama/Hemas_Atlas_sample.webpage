@@ -1,0 +1,83 @@
+body{
+    margin: 0px;
+}
+
+.div1{
+   background-image: url("brand-atlas-background.jpg");
+   height: 750px;
+   width: 1525px;
+   background-repeat: no-repeat; 
+   background-size: cover;
+}
+
+.image1{
+    width:130px ;
+    margin-left: 20px;
+    margin-top: 20px;
+   
+}
+
+.ol1{
+    list-style: none;
+    margin-left: 500px;
+    margin-top:-18px;
+    font-family: 'Lucida Sans';
+  
+    font-size:14px;
+    
+    
+     
+} 
+
+.li1{
+    display: inline;
+    margin-left: 60px;
+    
+   
+}
+
+
+
+a:link{
+    color:rgb(54, 38, 12);
+    text-decoration: none;
+}
+
+a:hover{
+    color:greenyellow;
+}
+
+.image2{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.div2{
+    height: 25px;
+    background-color: rgb(212, 171, 120);
+   
+}
+
+.lable1{
+    font-size: 100px;
+    font-family: 'Lucida Sans';
+    color: aliceblue;
+    margin-left: 50px;
+
+}
+
+.p2{
+    font-size: 16px;
+    font-weight:bold;
+    font-family: 'Lucida Sans';
+    color: rgb(51, 62, 71);
+    margin-left: 50px;
+}
+.image4{
+    margin-left: 600px;
+    margin-top: 5px;
+    height: 150px;
+}
+.image3{
+    height: 250px;
+}
